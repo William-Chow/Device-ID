@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Get Device ID</string>
+
+    <string name="title">Hong Leong Grab Device ID</string>
+    <string name="grab_device_id">Grab Device ID</string>
+
+    <string name="result">Result :: </string>
+
+    <string name="send_email">Send Email</string>
+
+    <string name="notice">Notice</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="exit_app">Exit App ?</string>
+
+    <string name="permission_telephony_Reason">Please enable Phone services for uninterupt use of this service. Not enabling this service will render app unusable.</string>
+    <string name="permission_telephony_Reason_Settings">Please enable Phone services for uninterupt use of this service. Not enabling this service will render app unusable.</string>
+    <string name="permission_telephony_Dismiss_Reason">Telephony Dismiss Reason.</string>
+
+    <string name="permission_telephony_title">Phone access required</string>
+    <string name="permission_NotNow">Not Now</string>
+    <string name="permission_Settings">Allow</string>
+    <string name="permission_Allow">Allow</string>
+</resources>
